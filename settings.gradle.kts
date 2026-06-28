@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "OpenDroidChat"
+rootProject.name = "OpenDroidChat-Legacy"
 include(":app")

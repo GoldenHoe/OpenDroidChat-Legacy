@@ -1,4 +1,4 @@
-# OpenDroidChat
+# OpenDroidChat-Legacy
 
 一款适用于 **Android 5+** 的开源、操作简单的 LLM API 聊天软件
 An open-source and easy-to-use LLM API chat software for Android 5+
@@ -32,7 +32,7 @@ An open-source and easy-to-use LLM API chat software for Android 5+
 
 ## 安装 / Installation
 
-1. 下载最新的 [Releases](https://github.com/HOE-Team/OpenDroidChat/releases) APK 文件
+1. 下载最新的 [Releases](https://github.com/GoldenHoe/OpenDroidChat-Legacy/releases) APK 文件
 2. 使用软件安装器安装
 
 ## 从源代码构建 / Build from Source
@@ -46,8 +46,8 @@ An open-source and easy-to-use LLM API chat software for Android 5+
 
 ```bash
 # 克隆仓库
-git clone https://github.com/HOE-Team/OpenDroidChat.git
-cd OpenDroidChat
+git clone https://github.com/GoldenHoe/OpenDroidChat-Legacy.git
+cd OpenDroidChat-Legacy
 
 # 使用 Gradle Wrapper 构建
 ./gradlew build    # Linux / macOS
